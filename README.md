@@ -66,8 +66,7 @@ PROYECTOS DESTACADOS
 🏢 Reportes Inmobiliaria (2024)
 
 Rol: Backend Developer
-Descripción:
-API REST para la gestión de reportes inmobiliarios, enfocada en seguridad y control de accesos.
+Descripción: API REST para la gestión de reportes inmobiliarios, enfocada en seguridad y control de accesos.
 
 Características clave:
 
@@ -87,8 +86,7 @@ Tecnologías:
 🎓 Escuela Adelaida (2024)
 
 Rol: Full Stack Developer
-Descripción:
-Sistema CRM para una fundación educacional rural, orientado a la gestión administrativa escolar.
+Descripción: Sistema CRM para una fundación educacional rural, orientado a la gestión administrativa escolar.
 
 Funcionalidades:
 
@@ -108,8 +106,7 @@ Tecnologías:
 🚍 Control de Reclamos Transporte (2024)
 
 Rol: Full Stack Developer
-Descripción:
-Sistema web para la gestión de reclamos con múltiples perfiles de usuario.
+Descripción: Sistema web para la gestión de reclamos con múltiples perfiles de usuario.
 
 Funcionalidades:
 
