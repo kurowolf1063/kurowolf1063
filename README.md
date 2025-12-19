@@ -127,12 +127,13 @@ Tecnologías:
 
 CERTIFICACIONES
 
-Bootcamp Desarrollo de Aplicaciones Full Stack Java Trainee
-Talento Digital para Chile – Noviembre 2024
+- Bootcamp Desarrollo de Aplicaciones Full Stack Java Trainee
+  Marzo 2024 – Noviembre 2024
+  Talento Digital para Chile
 
-E-Camp Seguridad Cloud
-Junio 2025 – Septiembre 2025
-Enfoque en ciberseguridad, control de accesos, protección de datos y respuesta ante incidentes en entornos cloud (AWS, Azure, GCP).
+- E-Camp Seguridad Cloud
+  Junio 2025 – Septiembre 2025
+  Enfoque en ciberseguridad, control de accesos, protección de datos y respuesta ante incidentes en entornos cloud (AWS, Azure, GCP).
 
 En preparación:
 - AWS Certified Cloud Practitioner (2025)
