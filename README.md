@@ -1,164 +1,216 @@
-John Riquelme Morales
-Full Stack Java Developer | Spring Boot · APIs REST · PostgreSQL
+# 👋 Hola, soy John Riquelme Morales
 
-Desarrollador Full Stack con experiencia en el diseño e implementación de aplicaciones web y APIs REST seguras. Especializado en backend con Java y Spring Boot, autenticación JWT, control de accesos por rol y sistemas de gestión orientados a resolver problemas reales.
+### 💻 Soporte TI N1/N2 | Full Stack Developer | Linux | SQL | Java & Spring Boot
 
-📍 Santiago de Chile
-📧 johnriquelmemorales@gmail.com
+Soy **Técnico en Informática titulado**, con experiencia en soporte técnico presencial y remoto, resolución de incidencias, administración de sistemas y desarrollo de aplicaciones web.
 
-🔗 GitHub: https://github.com/kurowolf1063
+Mi perfil combina la experiencia en **soporte TI y continuidad operativa** con conocimientos de **desarrollo Full Stack, bases de datos relacionales y diagnóstico de aplicaciones**.
 
-🔗 LinkedIn: www.linkedin.com/in/johnrm1063
+📍 Santiago, Chile  
+📧 [johnriquelmemorales@gmail.com](mailto:johnriquelmemorales@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/johnrm1063/)  
+🔗 [GitHub](https://github.com/kurowolf1063)
 
-SOBRE MÍ
+---
 
-Soy desarrollador Full Stack con formación técnica y experiencia práctica en proyectos de gestión de incidencias, CRM y sistemas de reportes. He trabajado en aplicaciones web completas, desde el modelado de base de datos hasta la implementación de autenticación, autorización y lógica de negocio.
+## 👨‍💻 Sobre mí
 
-Tengo especial interés en el desarrollo backend, la seguridad en aplicaciones cloud y el uso de buenas prácticas como arquitectura MVC, programación orientada a objetos y metodologías ágiles. Actualmente continúo fortaleciendo mis conocimientos en seguridad cloud y servicios AWS.
+Soy un profesional autodidacta, analítico y orientado a la resolución de problemas tecnológicos.
 
-TECNOLOGÍAS
+He trabajado brindando soporte a usuarios, administrando incidencias, configurando equipos Windows y Linux, y desarrollando aplicaciones web con tecnologías como Java, Spring Boot, PHP y JavaScript.
 
-Lenguajes & Frameworks:
+Mi experiencia en desarrollo me permite abordar problemas técnicos desde una perspectiva adicional: comprender la lógica de las aplicaciones, analizar errores, revisar consultas a bases de datos e investigar posibles causas.
 
-- Java
+Me interesa continuar creciendo profesionalmente en áreas como:
 
-- Spring Boot
+- Soporte TI N1/N2 y soporte de aplicaciones.
+- Administración y diagnóstico de sistemas Linux.
+- Bases de datos SQL y resolución de incidencias.
+- Desarrollo backend con Java y Spring Boot.
+- Ciberseguridad, seguridad cloud y automatización.
 
-- PHP
+Actualmente me encuentro matriculado en **Ingeniería en Informática en la Universidad de Las Américas (UDLA)**, con inicio de clases en marzo de 2027.
 
-- JavaScript
+---
 
-- HTML5 / CSS3
+## 🛠️ Tecnologías y conocimientos
 
-- Thymeleaf, JSP
+### Soporte técnico y sistemas
+- Windows 10/11 y Ubuntu Linux.
+- Soporte presencial y remoto.
+- Active Directory y Microsoft 365.
+- Gestión de tickets con Proactivanet y Numia.
+- Diagnóstico de hardware, software y periféricos.
+- Revisión de logs, instalación y configuración de aplicaciones.
+- Gestión de incidencias, SLA y documentación técnica.
 
-- Bootstrap
+### Desarrollo de software
+- Java y Spring Boot.
+- PHP y JavaScript.
+- Python.
+- Angular, HTML5 y CSS3.
+- Thymeleaf, JSP y Bootstrap.
+- APIs REST y arquitectura MVC.
+- Programación orientada a objetos.
 
-- Bases de Datos
+### Bases de datos
+- PostgreSQL.
+- MySQL.
+- Consultas SQL.
+- Modelado y gestión de bases de datos relacionales.
 
-- PostgreSQL
+### Herramientas y tecnologías complementarias
+- Git y GitHub.
+- Maven.
+- Docker.
+- Fundamentos de redes TCP/IP, DNS y DHCP.
+- Seguridad de aplicaciones y control de accesos.
+- Fundamentos de seguridad cloud.
 
-- MySQL
+---
 
-- Cloud & DevOps
+## 💼 Experiencia profesional
 
-- AWS
+### Especialista en Soporte Técnico — Siroe
+**Enero 2026 – Julio 2026**
 
-- Docker
+- Soporte técnico N1/N2 presencial y remoto.
+- Atención y seguimiento de incidencias mediante Proactivanet y Numia.
+- Administración de cuentas y permisos en Active Directory.
+- Instalación y configuración de Ubuntu 20.04.
+- Preparación de equipos Linux para sistemas de gestión de filas.
+- Instalación, actualización y eliminación de aplicaciones.
+- Revisión de logs y diagnóstico de errores.
+- Soporte a equipos Windows, periféricos y conectividad.
 
-Herramientas:
+### Programador Full Stack — Dataware
+**Marzo 2017 – Octubre 2018**
 
-- Git
+- Desarrollo y mantenimiento de aplicaciones web.
+- Trabajo con Java, PHP, JavaScript y Angular.
+- Consultas a bases de datos MySQL y PostgreSQL.
+- Investigación y resolución de errores reportados por usuarios.
+- Detección proactiva de fallas en aplicaciones.
+- Uso de Git para control de versiones.
 
-- GitHub
+### Operador Informático — Ripley
+**Marzo 2015 – Octubre 2016**
 
-- Maven
+- Soporte a sistemas POS y equipos computacionales.
+- Diagnóstico de problemas de hardware y software.
+- Atención a usuarios internos.
+- Apoyo a la continuidad operativa.
 
-- Metodologías
+---
 
-- Programación Orientada a Objetos
+## 🚀 Proyectos destacados
 
-- MVC
+### 🏢 Reportes Inmobiliaria (2024)
+**Rol:** Backend Developer
 
-- Scrum
+API REST para la gestión de reportes inmobiliarios, enfocada en seguridad y control de accesos.
 
-PROYECTOS DESTACADOS
-🏢 Reportes Inmobiliaria (2024)
+**Características:**
+- Autenticación mediante JWT.
+- Autorización basada en roles.
+- Endpoints protegidos.
+- Buenas prácticas de seguridad.
 
-- Rol: Backend Developer
-- Descripción: API REST para la gestión de reportes inmobiliarios, enfocada en seguridad y control de accesos.
+**Tecnologías:** Spring Boot · PostgreSQL · Maven
 
-Características clave:
+### 🎓 Escuela Adelaida (2024)
+**Rol:** Full Stack Developer
 
-- Autenticación con JWT
+Sistema CRM para una fundación educacional rural, orientado a la gestión administrativa escolar.
 
-- Autorización basada en roles
+**Funcionalidades:**
+- Gestión de estudiantes.
+- Control de asistencia.
+- Seguimiento de permanencia.
+- Acceso mediante roles.
 
-- Endpoints protegidos
+**Tecnologías:** Spring Boot · PostgreSQL · Thymeleaf
 
-- Buenas prácticas de seguridad
+### 🚍 Control de Reclamos Transporte (2024)
+**Rol:** Full Stack Developer
 
-Tecnologías:
-- Spring Boot · PostgreSQL · Maven
+Sistema web para gestionar reclamos mediante diferentes perfiles de usuario.
 
+**Funcionalidades:**
+- Roles de administrador, moderador y usuario.
+- Autenticación y permisos.
+- Operaciones CRUD.
+- Interfaz responsive.
 
+**Tecnologías:** Spring Boot · PostgreSQL · Thymeleaf · Bootstrap
 
-🎓 Escuela Adelaida (2024)
+---
 
-- Rol: Full Stack Developer
-- Descripción: Sistema CRM para una fundación educacional rural, orientado a la gestión administrativa escolar.
+## 🎓 Formación académica
 
-Funcionalidades:
+**Técnico en Informática**  
+Instituto Profesional de Providencia (IPP) — Titulado.
 
-- Gestión de estudiantes
+**Ingeniería en Informática**  
+Universidad de Las Américas (UDLA) — Matriculado. Inicio: marzo de 2027.
 
-- Control de asistencia
+---
 
-- Seguimiento de permanencia
+## 🏅 Certificaciones y cursos
 
-- Acceso por roles
+### Talento Digital para Chile
 
-Tecnologías:
-- Spring Boot · PostgreSQL · Thymeleaf
+**Bootcamp Desarrollo de Aplicaciones Full Stack Java Trainee**  
+480 horas · Marzo – noviembre de 2024
 
+Formación en Java, Spring Framework, desarrollo web y consultas a bases de datos.
 
+[🔗 Ver credencial](https://www.acreditta.com/credential/f00f0a13-ce21-45d5-9c3e-d807fff7fb8d)
 
-🚍 Control de Reclamos Transporte (2024)
+**Seguridad Cloud – Especialidad**  
+Junio – septiembre de 2025
 
-- Rol: Full Stack Developer
-- Descripción: Sistema web para la gestión de reclamos con múltiples perfiles de usuario.
+Formación en protección de redes e infraestructura, identidad y accesos, seguridad en contenedores, protección de datos y monitoreo de seguridad cloud.
 
-Funcionalidades:
+[🔗 Ver credencial](https://www.acreditta.com/credential/2144d521-2a28-4afb-9b3a-232f596cf723)
 
-- Roles diferenciados (administrador, moderador, usuario)
+### Google / Coursera
 
-- Autenticación y permisos
+**Technical Support Fundamentals**  
+Septiembre 2026 · 18 horas aprox.  
+[🔗 Ver certificado](https://www.coursera.org/account/accomplishments/verify/XBDXVSRGJYBK)
 
-- CRUD completo
+**Foundations of Cybersecurity**  
+Julio 2026 · 9 horas aprox.  
+[🔗 Ver certificado](https://www.coursera.org/account/accomplishments/verify/ZPHHV9OSPEFD)
 
-- Interfaz web responsiva
+**Play It Safe: Manage Security Risks**  
+Agosto 2026 · 9 horas aprox.  
+[🔗 Ver certificado](https://www.coursera.org/account/accomplishments/verify/KELCSJYCVIRQ)
 
-Tecnologías:
-- Spring Boot · PostgreSQL · Thymeleaf · Bootstrap
+**Crash Course on Python**  
+Octubre 2026 · 20 horas aprox.  
+[🔗 Ver certificado](https://www.coursera.org/account/accomplishments/verify/UNUXPPZX6HA3)
 
+---
 
-CERTIFICACIONES
+## 🌎 Idiomas
 
-- Bootcamp Desarrollo de Aplicaciones Full Stack Java Trainee
-  Marzo 2024 – Noviembre 2024
-  Talento Digital para Chile
+- Español: Nativo.
+- Inglés: A2.
 
-- E-Camp Seguridad Cloud
-  Junio 2025 – Septiembre 2025
-  Enfoque en ciberseguridad, control de accesos, protección de datos y respuesta ante incidentes en entornos cloud (AWS, Azure, GCP).
+---
 
-En preparación:
-- AWS Certified Cloud Practitioner (2025)
+## 📬 Contacto
 
-IDIOMAS
+Estoy interesado en oportunidades profesionales relacionadas con **Soporte TI, Soporte de Aplicaciones, Administración de Sistemas y Desarrollo de Software**.
 
-- Español: Nativo
+📧 **Correo:** [johnriquelmemorales@gmail.com](mailto:johnriquelmemorales@gmail.com)
 
-- Inglés: A2
+💼 **LinkedIn:** [johnrm1063](https://www.linkedin.com/in/johnrm1063/)
 
-CONTACTO
+💻 **GitHub:** [kurowolf1063](https://github.com/kurowolf1063)
 
-📧 Email: johnriquelmemorales@gmail.com
+---
 
-🔗 GitHub: https://github.com/kurowolf1063
-
-🔗 LinkedIn: www.linkedin.com/in/johnrm1063
-<!--
-**kurowolf1063/kurowolf1063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Aprendizaje continuo, compromiso técnico y orientación a la resolución de problemas.*
